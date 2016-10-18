@@ -1,0 +1,12 @@
+{
+    "name": "rogerforner/roman-numbers",
+    "require": {
+        "phpspec/phpspec": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Roger Forner Fabre",
+            "email": "rogerforne@iesebre.com"
+        }
+    ]
+}
