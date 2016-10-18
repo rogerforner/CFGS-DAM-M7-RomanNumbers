@@ -8,5 +8,10 @@
             "name": "Roger Forner Fabre",
             "email": "rogerforne@iesebre.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "":"src"
+        }
+    }
 }
